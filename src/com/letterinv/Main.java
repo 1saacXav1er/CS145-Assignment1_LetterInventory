@@ -64,7 +64,7 @@ public class Main {
         System.out.println("Total Letters: " + noSpaceStr.length());
         System.out.println(" ");
         //prints letter with most letters
-        System.out.println("Most Letters: " + alphabet[alpindex] + " " + maxVal);
+        System.out.println("Most Letters: " + alphabet[alpindex] + " with " + maxVal);
 
     }
 
